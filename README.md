@@ -9,7 +9,7 @@ you can check the link http://info.iet.unipi.it/~luigi/netmap/ for the project g
 
 I think my design is more easy to use.
 
-Please the patch e1000_2.6.32-504.3.3-modify.patch
+Please check the patch e1000_2.6.32-504.3.3-modify.patch
 
 So you have seen, just need modify the all_skb free_skb and receive_skb interface.
 
