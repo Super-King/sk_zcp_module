@@ -26,8 +26,11 @@ https://github.com/Super-King/sk_zcp_kernel
 
 # Dir introduce
 driver: including zero copy driver, modify e1000 and original driver
+
 example: including send forward and recive sample program.
+
 include: using for application head file.
+
 lib:     using for application lib file.
 
 # Test ENV
